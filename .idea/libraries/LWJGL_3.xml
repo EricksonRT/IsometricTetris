@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="LWJGL 3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/CodeLibraries/LWJGL 3" />
+      <root url="jar://$USER_HOME$/Documents/CodeLibraries/pngdecoder-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/CodeLibraries/LWJGL 3" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/CodeLibraries/LWJGL 3" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/CodeLibraries/LWJGL 3" recursive="false" type="SOURCES" />
+  </library>
+</component>
